@@ -3,10 +3,10 @@ var num;
 console.log("run the first time for tutorial");
 const input = prompt("run the first time for tutorial",num);
 let a ;
-var linkf=link+input;
+let linkf=link+input;
 
 let text = "unlock link";
-let result = text.link(link+input);
+let result = text.link( "https://"+"www.themarker.com/misc/themarkersmartphoneapp/.premium-1"+input);
 let text1 = "the marker";
 let result1 = text1.link("https://www.themarker.com/");
 
